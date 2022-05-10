@@ -1,0 +1,15 @@
+D:\My Documents\Workshop\Cplusplus\Csharp-Censored-Strings\bin\Debug\net6.0\Csharp-Censored-Strings.exe
+D:\My Documents\Workshop\Cplusplus\Csharp-Censored-Strings\bin\Debug\net6.0\Csharp-Censored-Strings.deps.json
+D:\My Documents\Workshop\Cplusplus\Csharp-Censored-Strings\bin\Debug\net6.0\Csharp-Censored-Strings.runtimeconfig.json
+D:\My Documents\Workshop\Cplusplus\Csharp-Censored-Strings\bin\Debug\net6.0\Csharp-Censored-Strings.dll
+D:\My Documents\Workshop\Cplusplus\Csharp-Censored-Strings\bin\Debug\net6.0\Csharp-Censored-Strings.pdb
+D:\My Documents\Workshop\Cplusplus\Csharp-Censored-Strings\obj\Debug\net6.0\Csharp-Censored-Strings.csproj.AssemblyReference.cache
+D:\My Documents\Workshop\Cplusplus\Csharp-Censored-Strings\obj\Debug\net6.0\Csharp-Censored-Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Workshop\Cplusplus\Csharp-Censored-Strings\obj\Debug\net6.0\Csharp-Censored-Strings.AssemblyInfoInputs.cache
+D:\My Documents\Workshop\Cplusplus\Csharp-Censored-Strings\obj\Debug\net6.0\Csharp-Censored-Strings.AssemblyInfo.cs
+D:\My Documents\Workshop\Cplusplus\Csharp-Censored-Strings\obj\Debug\net6.0\Csharp-Censored-Strings.csproj.CoreCompileInputs.cache
+D:\My Documents\Workshop\Cplusplus\Csharp-Censored-Strings\obj\Debug\net6.0\Csharp-Censored-Strings.dll
+D:\My Documents\Workshop\Cplusplus\Csharp-Censored-Strings\obj\Debug\net6.0\refint\Csharp-Censored-Strings.dll
+D:\My Documents\Workshop\Cplusplus\Csharp-Censored-Strings\obj\Debug\net6.0\Csharp-Censored-Strings.pdb
+D:\My Documents\Workshop\Cplusplus\Csharp-Censored-Strings\obj\Debug\net6.0\Csharp-Censored-Strings.genruntimeconfig.cache
+D:\My Documents\Workshop\Cplusplus\Csharp-Censored-Strings\obj\Debug\net6.0\ref\Csharp-Censored-Strings.dll
