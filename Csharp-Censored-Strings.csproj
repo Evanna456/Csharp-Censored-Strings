@@ -6,6 +6,7 @@
     <RootNamespace>Csharp_Censored_Strings</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>Csharp_Censored_Strings.Program</StartupObject>
   </PropertyGroup>
 
 </Project>

@@ -17,7 +17,9 @@ namespace Csharp_Censored_Strings
             Console.WriteLine("Enter the Lost Vowels");
             string lost_vowels = Console.ReadLine();
             censored(censored_string, lost_vowels);
-            }catch (Exception x)
+            Console.ReadLine();
+            }
+            catch (Exception x)
             {
             program();
             }

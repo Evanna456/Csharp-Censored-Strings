@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\My Documents\\Workshop\\Cplusplus\\Csharp-Censored-Strings\\Csharp-Censored-Strings.csproj": {}
+    "D:\\My Documents\\Workshop\\Csharp\\Csharp-Censored-Strings\\Csharp-Censored-Strings.csproj": {}
   },
   "projects": {
-    "D:\\My Documents\\Workshop\\Cplusplus\\Csharp-Censored-Strings\\Csharp-Censored-Strings.csproj": {
+    "D:\\My Documents\\Workshop\\Csharp\\Csharp-Censored-Strings\\Csharp-Censored-Strings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My Documents\\Workshop\\Cplusplus\\Csharp-Censored-Strings\\Csharp-Censored-Strings.csproj",
+        "projectUniqueName": "D:\\My Documents\\Workshop\\Csharp\\Csharp-Censored-Strings\\Csharp-Censored-Strings.csproj",
         "projectName": "Csharp-Censored-Strings",
-        "projectPath": "D:\\My Documents\\Workshop\\Cplusplus\\Csharp-Censored-Strings\\Csharp-Censored-Strings.csproj",
+        "projectPath": "D:\\My Documents\\Workshop\\Csharp\\Csharp-Censored-Strings\\Csharp-Censored-Strings.csproj",
         "packagesPath": "C:\\Users\\Evanna\\.nuget\\packages\\",
-        "outputPath": "D:\\My Documents\\Workshop\\Cplusplus\\Csharp-Censored-Strings\\obj\\",
+        "outputPath": "D:\\My Documents\\Workshop\\Csharp\\Csharp-Censored-Strings\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
